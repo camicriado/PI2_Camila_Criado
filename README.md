@@ -1,6 +1,6 @@
 # PI2_Camila_Criado
 Este Repositorio contiene el **Proyecto Individual 2** de la Carrera Data Science Part Time 01 de Henry. 
-El mismo perseguía los siguientes objetivos; 
+El mismo perseguía los siguientes objetivos.
 
 **Se pedía simular un informe a un Cliente del Rubro TELECOMUNICACIONES,a través del Análisis de 16 Datasets**
 

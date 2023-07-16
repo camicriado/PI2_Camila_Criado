@@ -1,11 +1,4 @@
 # PI2_Camila_Criado
-
-El repositorio debe contener un Readme principal donde presenten, en una primera instancia, 
-de forma general su proyecto y detallen qué hay en cada archivo/carpeta del propio repositorio. 
-Este Readme no puede ser el mismo de la consigna que nosotros les entregamos
-. A su vez, el Readme debe incluir un reporte de análisis con base en sus dashboards, 
-así como el análisis y la funcionalidad de los KPIs sugeridos.
-
 Este Repositorio contiene el **Proyecto Individual 2** de la Carrera Data Science Part Time 01 de Henry. 
 El mismo perseguía los siguientes objetivos; 
 

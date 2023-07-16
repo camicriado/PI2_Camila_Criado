@@ -97,11 +97,13 @@ Por último, se analizó el dataset que proporciona datos sobre los **rangos de 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Por último se analizan los KPIS Sugeridos**
 
-En función del Análisis Anterior, se proponen los siguientes KPI´s. 
+En función del Análisis Anterior, se han diseñado Tres KPI's. Es importante mencionar que en este caso, no se cuenta con información puntual del Cliente, sino con datos del contexto. En este sentido, los KPI´s estarán oriendatos a medir el ¨Desempeño del Servicio de Internet¨a nivel Nacional, para que la empresa pueda tomar sus propias decisiones a partir de los datos generales. Muy probablemente, si contáramos con datos internos, los KPIS propuestos, serían otros. 
 
-**Porcentaje de Conexiones con Banda Ancha**: Este KPI medirá el porcentaje de conexiones de banda ancha respecto sobre el total de conexiones (clientes). El objetivo será aumentar este porcentaje en un 5% anualmente para reflejar una mayor penetración en el mercado de conexiones de alta velocidad y una mejor satisfacción de los clientes con el servicio ofrecido.
+**Variación Anual de Conexiones a Banda Ancha**: Este KPI medirá la variación anual de la Conexión a banda Ancha a Nivel Nacional. Según los datos internos de la empresa, la misma deberá proponer un objetivo anual, a apartir del cual tomará ciertas acciones. Es decir: ¨Si la Banda Ancha a nivel Nacional se incrementa en un 10%, se invertirá para aumentar el servicio en determinadas Provincias...¨
 
-**Crecimiento Anual Conexiones de Fibra Optica**: Este KPI evaluará el aumento porcentual anual de las conexiones de fibra óptica en comparación con el año anterior. El objetivo sería lograr un crecimiento positivo del 10% en este KPI para reflejar una mayor adopción de la tecnología de fibra óptica por parte de los clientes y una ventaja competitiva en el mercado. 
+**Variación Anual de Conexiones de Fibra Optica**: Este KPI evaluará el aumento porcentual anual de las conexiones de fibra óptica en comparación con el año anterior. 
+Similar al KPI anterior, el Cliente deberá plantearse una base mínima de evolución de esta tecnología a Nivel Nacional, para decidir donde y en que momento invertir en hacer crecer a este servicio. Se lo puede pensar, tanto a nivel Nacional como Provincial, dependiendo de lo que se esté necesitando. 
+ 
+**Velocidad Media de Bajada**: Este KPI medirá la velocidad media de descarga a Nivel Provincial. Considerando esta Velocidad, El Cliente podrá plantear superar a la media en un determinado porcentaje, por ejemplo un 15%. 
 
-**Velocidad Media de Bajada**: Este KPI medirá la velocidad media de descarga ofrecida a los clientes. El objetivo sería mantener trimestralmente una velocidad media alta y estable para garantizar una experiencia de usuario óptima y satisfacer las expectativas de los clientes en cuanto a la calidad del servicio.
-
+Por último, es importante mencionar que estos KPIS le darán al Cliente un diagnóstico de la situación a Nivel Nacional o Provincial. A partir de estos datos la empresa podrá plantearse objetivos concretos y acotados en el tiempo. 

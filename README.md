@@ -97,3 +97,11 @@ Por último, se analizó el dataset que proporciona datos sobre los **rangos de 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Por último se analizan los KPIS Sugeridos**
 
+En función del Análisis Anterior, se proponen los siguientes KPI´s. 
+
+**Porcentaje de Conexiones con Banda Ancha**: Este KPI medirá el porcentaje de conexiones de banda ancha respecto sobre el total de conexiones (clientes). El objetivo será aumentar este porcentaje en un 5% anualmente para reflejar una mayor penetración en el mercado de conexiones de alta velocidad y una mejor satisfacción de los clientes con el servicio ofrecido.
+
+**Crecimiento Anual Conexiones de Fibra Optica**: Este KPI evaluará el aumento porcentual anual de las conexiones de fibra óptica en comparación con el año anterior. El objetivo sería lograr un crecimiento positivo del 10% en este KPI para reflejar una mayor adopción de la tecnología de fibra óptica por parte de los clientes y una ventaja competitiva en el mercado. 
+
+**Velocidad Media de Bajada**: Este KPI medirá la velocidad media de descarga ofrecida a los clientes. El objetivo sería mantener trimestralmente una velocidad media alta y estable para garantizar una experiencia de usuario óptima y satisfacer las expectativas de los clientes en cuanto a la calidad del servicio.
+
